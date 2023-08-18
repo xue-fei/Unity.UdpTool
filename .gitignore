@@ -1,0 +1,9 @@
+
+.vsconfig
+Library
+Logs
+Temp
+*.sln
+UserSettings/Layouts
+UserSettings/Search.settings
+ProjectSettings/boot.config
