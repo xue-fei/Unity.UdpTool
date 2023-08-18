@@ -7,3 +7,6 @@ Temp
 UserSettings/Layouts
 UserSettings/Search.settings
 ProjectSettings/boot.config
+.vs
+*.csproj
+obj
